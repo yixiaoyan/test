@@ -1,0 +1,56 @@
+*{margin:0; padding:0; list-style: none;}
+.swiper-container{
+	width: 6.4rem;
+	height: 10.49rem;
+}
+.page1{
+	background: url(img/bg1.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page2{
+	background: url(img/bg2.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page3{
+	background: url(img/bg3.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page4{
+	background: url(img/bg4.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page5{
+	background: url(img/bg5.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.swiper-slide .tu1{
+	width: 3.2rem;
+	height: 3rem;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-top: -3rem;
+	margin-left: -1.6rem;
+}
+.swiper-slide .tu2{
+	width: 2.96rem;
+	height: 1.48rem;
+	position: absolute;
+	left: 50%;
+	top: 60%;
+	margin-left: -1.48rem;
+}
+.swiper-slide .tu3{
+	width: 0.62rem;
+	height: 0.35rem;
+	position: absolute;
+	left: 50%;
+	top: 68%;
+}
+.swiper-slide .tu4{
+	width: 0.42rem;
+	height: 0.24rem;
+	position: absolute;
+	left: 60%;
+	top: 68%;
+}
